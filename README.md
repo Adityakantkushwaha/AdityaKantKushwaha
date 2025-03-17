@@ -3,7 +3,7 @@
 ## 🚀 About Me
 
 - 🎓 **B.Tech CSE | University of Lucknow**  
-- 💻 Passionate about **Web Development & DSA**
+- 💻 Passionate about **Web Development & DSA**  
 - 📜 IT Head at **Lucknow University Cultural & Sports Committee (LUCSC)**  
 - 🌟 Always excited to learn and explore new technologies!  
 
@@ -23,11 +23,10 @@
 
 ## 📊 GitHub Stats
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=your-github-username&theme=dark&hide_border=true)
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=dark&hide_border=true)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AdityaKantKushwaha&theme=dark&hide_border=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AdityaKantKushwaha&show_icons=true&theme=dark&hide_border=true)
 
 ## 🌐 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://linkedin.com/in/your-profile](https://www.linkedin.com/in/adityakantkushwaha/))  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adityakantkushwaha/)  
 🔹 **Let's connect and build amazing things together!** 🚀
-
